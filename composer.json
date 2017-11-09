@@ -1,0 +1,14 @@
+{
+    "name": "yq0103/mywork",
+    "description": "dev",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
